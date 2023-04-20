@@ -1,5 +1,6 @@
 # Web-Dev-SIG-Class
 ## Mastering Web Development from the basics to advanced level
+<h2 style="color: blue"> Mastering Web Development from the basics to advanced level</h2>
 
 ## HOW TO CONTRIBUTE ? 👷 
 
