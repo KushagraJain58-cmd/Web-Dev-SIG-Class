@@ -16,7 +16,7 @@ cd Portfolio-Site
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/KushagraJain58-cmd/Portfolio-Site
+git remote add upstream https://github.com/KushagraJain58-cmd/Web-Dev-SIG-Class
 ```
 
 **5.** Check the remotes for this repository.
