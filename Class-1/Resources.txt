@@ -1,1 +1,3 @@
 https://www.w3schools.com/html/html_intro.asp - HTML Intro and syntax
+https://www.w3schools.com/tags/tag_head.asp - HTML Head Tag
+https://www.w3schools.com/tags/tag_body.asp - HTML Body Tag
