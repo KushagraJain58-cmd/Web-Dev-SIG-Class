@@ -1,0 +1,6 @@
+-It was an intro about Web Development
+-Why web development is important
+-Languages used in web development
+-Difference between frontend and backend
+-Started with basic syntax of HTML
+-Told some of the tags used in HTML
