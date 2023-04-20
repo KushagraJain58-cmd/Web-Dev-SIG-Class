@@ -1,5 +1,5 @@
 # Web-Dev-SIG-Class
-## Mastering web development from the basics to advanced level
+## Mastering Web Development from the basics to advanced level
 
 ## HOW TO CONTRIBUTE ? 👷 
 
