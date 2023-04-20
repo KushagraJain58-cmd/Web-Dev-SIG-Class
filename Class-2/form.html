@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Form</title>
+</head>
+<body>
+    <form action="#" method="get">
+        <fieldset>
+            <legend>Registeration</legend>
+        <label for="fname">First Name: </label> <input type="text" id="fname" name="name" required ><br />
+        <label for="lname">Last Name: </label> <input type="text" id="lname" name="lastName" ><br />
+        <label for="email">Email: </label> <input type="email" id="email" name="Email" ><br />
+        <label for="password">Password: </label> <input type="password" id="pass" name="password" ><br />
+        <label for="date">DOB: </label> <input type="date" id="date" name="date" ><br />
+        Gender:<br>
+			<input type="radio" name="gender" value="Male">Male<br>
+			<input type="radio" name="gender" value="Female">Female<br>
+			<input type="radio" name="gender" value="Others">Others<br>
+        Pets:<br>
+			<input type="checkbox" name="cat">Cat<br>
+			<input type="checkbox" name="dog">Dog<br>
+        Cars:<br>
+			<select name="cars">
+				<option value="Volvo">Volvo</option>
+				<option value="Audi">Audi</option>
+			</select><br><br>
+        <input type="submit" value="Submit">
+        <input type="reset">
+    </fieldset>
+    </form>
+</body>
+</html>
+
+
+
+
