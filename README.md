@@ -12,7 +12,7 @@
 **3.** Navigate to the project directory.
 
 ```terminal
-cd Portfolio-Site
+cd Web-Dev-SIG-Class
 ```
 
 **4.** Add a reference(remote) to the original repository.
