@@ -2,12 +2,11 @@
 
 ## Mastering Web Development from the basics to advanced level
 
-## HOW TO CONTRIBUTE ? 👷 
+## HOW TO CONTRIBUTE ? 👷
 
 **1.** Fork repository.
 
 **2.** Clone the forked repository.
-
 
 **3.** Navigate to the project directory.
 
@@ -22,6 +21,7 @@ git remote add upstream https://github.com/KushagraJain58-cmd/Web-Dev-SIG-Class
 ```
 
 **5.** Check the remotes for this repository.
+
 ```
 git remote -v
 ```
@@ -32,10 +32,8 @@ git remote -v
 git pull upstream main
 ```
 
-
-**7.**  MAKE NECESSARY CHANGES IN THE PROJECT TO EDIT IT
+**7.** MAKE NECESSARY CHANGES IN THE PROJECT TO EDIT IT
 <br>
-
 
 **8.** Create a new branch.
 
@@ -57,3 +55,5 @@ git push -u origin <your_branch_name>
 ```
 
 **11.** Create a Pull Request!
+
+12. This from karanjot.
